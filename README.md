@@ -3,23 +3,20 @@
 This is a simple two player ncurses implementation of the classic tron game
 
 ## Build
-git pull https://github.com/drflamemontgomery/tron.git
-cd tron
-gcc -lncurses -o tron tron.c
+git pull https://github.com/drflamemontgomery/tron.git</br>
+cd tron</br>
+gcc -lncurses -o tron tron.c</br>
 
 ## Controls
 
 ### Player 1
-Up: UP ARROW KEY
-
-Down: DOWN ARROW KEY
-
-Left: LEFT ARROW KEY
-
-Right: RIGHT ARROW KEY
+Up: UP ARROW KEY</br>
+Down: DOWN ARROW KEY</br>
+Left: LEFT ARROW KEY</br>
+Right: RIGHT ARROW KEY</br>
 
 ### Player 2
-Up: W
-Down: S
-Left: A
-Right: D
+Up: W</br>
+Down: S</br>
+Left: A</br>
+Right: D</br>
