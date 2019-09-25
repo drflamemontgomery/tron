@@ -11,8 +11,11 @@ gcc -lncurses -o tron tron.c
 
 ### Player 1
 Up: UP ARROW KEY
+
 Down: DOWN ARROW KEY
+
 Left: LEFT ARROW KEY
+
 Right: RIGHT ARROW KEY
 
 ### Player 2
